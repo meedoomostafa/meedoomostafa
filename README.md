@@ -1,68 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed Mostafa</h1>
-<h3 align="center">A passionate .NET developer</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Ahmed Mostafa</h1> <h3 align="center">.NET Developer | Aspiring MLOps Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=meedoomostafa&label=Profile%20views&color=0e75b6&style=flat" alt="meedoomostafa" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/mohamed-ahmed-mostafa-a99511274" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:mezo.225577@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://codeforces.com/profile/Medo00" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> <a href="https://leetcode.com/Medo00" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> </p>
+🚀 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meedoomostafa&label=Profile%20views&color=0e75b6&style=flat" alt="meedoomostafa" />
-</p>
+I’m a passionate .NET Developer with a strong foundation in building robust backend systems using C#, ASP.NET, and modern frameworks like LINQ, Entity Framework Core, and MVC. I’m also an aspiring MLOps enthusiast, eager to bridge the gap between software engineering and machine learning by exploring tools and practices for deploying, monitoring, and scaling ML models.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
-</p>
+    🔭 Currently working on .NET-based backend solutions and exploring MLOps workflows.
+    🌱 Learning MLOps practices, including model deployment, CI/CD for ML, and tools like MLflow and Kubeflow.
+    💡 Skilled in C#, SQL, and C++ (master level), with solid experience in Python, Go, HTML, CSS, and Linux.
+    👨‍💻 Check out my projects on GitHub.
 
-### 🚀 About Me
-- 🔭 I'm currently working on **.NET Projects**
-- 🌱 I'm currently learning **Advanced LINQ and Entity Framework**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/meedoomostafa)
+🛠️ Tech Stack
+Languages
+<p> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </p>
+Frameworks & Tools
+<p> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" /> <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" /> <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" /> </p>
+MLOps Interests
+<p> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" /> <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> </p>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=meedoomostafa&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=meedoomostafa&theme=radical" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meedoomostafa&layout=compact&theme=radical" alt="Top Languages" /> </div>
 
-### 💻 Tech Stack
-csharp
-var skills = new Dictionary>
-{
-    {"Backend", new List {"C#", ".NET Core", "ASP.NET", "LINQ", "Entity Framework"}},
-    {"Database", new List {"SQL Server", "T-SQL"}},
-    {"Tools", new List {"Visual Studio", "Git", "GitHub"}}
-};
-
-
-### 🛠️ Featured Projects
-<div align="center">
-<a href="https://github.com/meedoomostafa/Library_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meedoomostafa&repo=Library_System&theme=dark" />
-</a>
-</div>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meedoomostafa&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meedoomostafa&theme=dark" alt="GitHub Streak" />
-</div>
-
-### 🏆 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meedoomostafa&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
-### 📫 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ahmed-mostafa-a99511274" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:mezo.225577@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/Medo00" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/Medo00" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-⭐️ From [meedoomostafa](https://github.com/meedoomostafa)
-this is the code
+⭐️ From meedoomostafa
