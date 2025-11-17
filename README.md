@@ -31,7 +31,7 @@ Chess engine implementation in Python using Negamax with Alpha-Beta pruning, Zob
 ### [Bosla AI](https://front.bosla.almiraj.xyz/)
 Full-stack learning platform (.NET & React) that generates personalized learning roadmaps with multilingual resources.
 
-### [WDLC Compiler](https://github.com/meedoomostafa)
+### [WDLC Compiler](https://github.com/wdlc-ai)
 Browser-based compiler for ML model inference via WebGPU with 50% performance improvement.
 
 ### [Skyra Weather Platform](https://skyra-iota.vercel.app/)
