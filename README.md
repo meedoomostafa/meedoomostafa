@@ -13,7 +13,7 @@ Backend Development  •  Machine Learning  •  Systems Programming  •  Compe
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mohamedahmeddev.vercel.app/)
 
 ---
-## 🚀 Highlighted Work
+## Highlighted Work
 
 | Project | Description | Tech |
 |---------|-------------|------|
