@@ -20,7 +20,7 @@ Backend Development  •  Machine Learning  •  Systems Programming  •  Compe
 | **[Sarab](https://github.com/meedoomostafa/sarab)** | CLI for localhost tunneling & SSH sharing | .NET, Networking |
 | **[WDLC Compiler](https://github.com/wdlc-ai)** | Browser DL compiler powered by WebGPU | WebGPU, WGSL |
 | **[BlitzMate](https://github.com/meedoomostafa/BlitzMate-engine)** | Chess engine with Negamax & Alpha-Beta pruning | Python, FastAPI |
-| **[Bosla AI](https://front.bosla.almiraj.xyz/)** | AI-powered learning platform with personalized roadmaps | .NET, React, Python |
+| **[Bosla AI](https://bosla.me/)** | AI-powered learning platform with personalized roadmaps | .NET, React, Python |
 | **[Skyra](https://skyra-iota.vercel.app/)** | Weather-based event planning with LLM recommendations | FastAPI, LLM |
 
 ---
