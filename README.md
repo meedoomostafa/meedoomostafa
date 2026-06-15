@@ -29,8 +29,8 @@ Backend Development  •  Machine Learning  •  Systems Programming  •  Compe
 
 | Repository | Description | Tech / Topics |
 |------------|-------------|---------------|
-| **[Calculus](https://github.com/meedoomostafa/Calculus)** | Mathematical foundations, optimization algorithms, and core derivations for Machine Learning | LaTeX, Python |
-| **[Compiler-Notes](https://github.com/meedoomostafa/Compiler-Notes)** | Comprehensive architecture notes, reference implementations, and research on compiler design | Markdown, C++ |
+| **[Calculus](https://github.com/meedoomostafa/Calculus)** | Calculus | LaTeX, Python |
+| **[Compiler-Notes](https://github.com/meedoomostafa/Compiler-Notes)** | Comprehensive architecture notes, reference implementations, and research on compiler design | Markdown, Java |
 
 ---
 
