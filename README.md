@@ -17,11 +17,20 @@ Backend Development  •  Machine Learning  •  Systems Programming  •  Compe
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Sarab](https://github.com/meedoomostafa/sarab)** | CLI for localhost tunneling & SSH sharing | .NET, Networking |
-| **[WDLC Compiler](https://github.com/wdlc-ai)** | Browser DL compiler powered by WebGPU | WebGPU, WGSL |
-| **[BlitzMate](https://github.com/meedoomostafa/BlitzMate-engine)** | Chess engine with Negamax & Alpha-Beta pruning | Python, FastAPI |
 | **[Bosla AI](https://bosla.me/)** | AI-powered learning platform with personalized roadmaps | .NET, React, Python |
+| **[Sarab](https://github.com/meedoomostafa/sarab)** | CLI for localhost tunneling & SSH sharing | .NET, Networking |
+| **[BlitzMate](https://github.com/meedoomostafa/BlitzMate-engine)** | Chess engine with Negamax & Alpha-Beta pruning | Python, FastAPI |
+| **[DevDiag](https://www.google.com/search?q=https://github.com/meedoomostafa/devdiag)** | Linux-first, evidence-driven diagnostic CLI with eBPF system tracing | Go, eBPF, C |
+| **[WDLC Compiler](https://github.com/wdlc-ai)** | Browser DL compiler powered by WebGPU | WebGPU, WGSL |
 | **[Skyra](https://skyra-iota.vercel.app/)** | Weather-based event planning with LLM recommendations | FastAPI, LLM |
+
+---
+## Studies & Notes
+
+| Repository | Description | Tech / Topics |
+|------------|-------------|---------------|
+| **[Calculus](https://github.com/meedoomostafa/Calculus)** | Mathematical foundations, optimization algorithms, and core derivations for Machine Learning | LaTeX, Python |
+| **[Compiler-Notes](https://github.com/meedoomostafa/Compiler-Notes)** | Comprehensive architecture notes, reference implementations, and research on compiler design | Markdown, C++ |
 
 ---
 
