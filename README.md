@@ -29,7 +29,7 @@ Backend Development  •  Machine Learning  •  Systems Programming  •  Compe
 
 | Repository | Description | Tech / Topics |
 |------------|-------------|---------------|
-| **[Calculus](https://github.com/meedoomostafa/Calculus)** | Calculus | LaTeX, Python |
+| **[eng-blueprints](https://github.com/meedoomostafa/eng-blueprints)** | Valuable notes in engineering, computer science, and mathematics | Markdown, Obsidian |
 | **[Compiler-Notes](https://github.com/meedoomostafa/Compiler-Notes)** | Comprehensive architecture notes, reference implementations, and research on compiler design | Markdown, Java |
 
 ---
